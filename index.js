@@ -14,6 +14,7 @@ http.createServer(function(req, res) {
     <p> I'm 20 </p>
     <p> :) <3 <p>
     <p> :) <3 <p>
+    <p> My fave colour is pink <p>
 </body>
 </html>`);
     }).listen(port, function() { 
