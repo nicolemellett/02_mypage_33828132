@@ -13,6 +13,7 @@ http.createServer(function(req, res) {
     <p>My name is Nicole</p>
     <p> I'm 20 </p>
     <p> :) <3 <p>
+    <p> :) <3 <p>
 </body>
 </html>`);
     }).listen(port, function() { 
