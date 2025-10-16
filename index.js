@@ -7,6 +7,11 @@ http.createServer(function(req, res) {
 <html>
 <head>
     <title>My Page</title>
+    <style>
+     body {
+      background-color:pink
+    }
+    </style>
 </head>
 <body>
     <p>Hi</p>
